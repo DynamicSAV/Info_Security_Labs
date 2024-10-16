@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e2e2e2;
+}
+
+.container {
+  display: block;
+  width: 900px;
+  height: 630px;
+  background-color: #ffffff;
+
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  margin: auto;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 20px 0px #bfbfbf; 
+}
+
+.buttonsHolder {
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+.textInput, .textOutput{
+  width: 100%;
+  height: 200px;
+
+  margin-bottom: 20px;
+  vertical-align: top;
+  resize: none;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.keyOutput {
+  width: 300px;
+  height: 60px;
+  resize: none;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+.customButton {
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.customButton:hover {
+  box-shadow: 0px 0px 10px 0px #2a2a2a;
+}
+
+.keyElements {
+  height: 60px;
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.key {
+  height: 100%;
+}
+
+.crack {
+  background-color: #f14a4a;
+  width: 200px;
+  height: 50px;
+}
