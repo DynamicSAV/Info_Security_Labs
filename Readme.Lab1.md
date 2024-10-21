@@ -21,3 +21,5 @@
 - Введите ключ или сгенерируйте новый.
 - Нажмите кнопку **"Encrypt"** или **"Decrypt"**, чтобы увидеть результаты.
 - Используйте кнопку **"Crack"**, чтобы попытаться расшифровать сообщение без знания ключа.
+<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/user-attachments/assets/adb07832-0f86-43a4-8c9f-353b25410307)" width="200" />
+
